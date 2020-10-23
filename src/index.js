@@ -1,4 +1,5 @@
 import image from './images/image.jpeg'
+import imageSvg from './images/image_svg.svg'
 
 // Create a class property without a constructor
 class Game {
