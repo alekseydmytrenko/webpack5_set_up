@@ -1,3 +1,5 @@
+import './styles/main.scss'
+
 import image from './images/image.jpeg'
 import imageSvg from './images/image_svg.svg'
 
